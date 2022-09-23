@@ -39,6 +39,7 @@ Follow the process described in the course to `eb init` a new application and `e
 
 ## Stand Out (Optional)
 
+
 ### Refactor the course RESTapi
 
 If you're feeling up to it, refactor the course RESTapi to make a request to your newly provisioned image server.
@@ -52,3 +53,4 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
